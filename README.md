@@ -25,5 +25,13 @@ The following Node.js packages are used in this project:
 - express
 - cors
 
+# Installation
+To run this project locally, follow these steps:
+
+- Clone the repository to your local machine.
+- Navigate to the project directory in your terminal.
+- Run npm install to install the required dependencies.
+- Run npm start to start the development server.
+
 # Author
 This application was developed by **Mohamed BenOughidene** fell free to cantact me <mohamedbenoughidene@gmail.com>
