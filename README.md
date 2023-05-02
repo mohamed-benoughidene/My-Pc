@@ -19,7 +19,7 @@ This application displays the following information about the user computer syst
 - Computer name
 - CPU cores, speed
 - Processor type
-- 
+
 # Dependencies
 The following Node.js packages are used in this project:
 - express
