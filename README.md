@@ -1,12 +1,12 @@
 # My PC
 The My-PC repository is a project that aims to provide users with information about their PC using a React Node app. The app utilizes the os module to retrieve system information such as the operating system, processor, memory, which is then displayed in a user-friendly manner.
 
-#built using
+# built using
 The project is built using:
 - react
 - Node.js
 
-#Features
+# Features
 This application displays the following information about the user computer system:
 - OS version information
 - Default temporary directory
