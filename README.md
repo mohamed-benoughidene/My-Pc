@@ -27,5 +27,4 @@ The following Node.js packages are used in this project:
 - cors
 
 # Author
-This application was developed by [Mohamed BenOughidene.](mohamedbenoughidene@gmail.com)
-
+This application was developed by **Mohamed BenOughidene** fell free to cantact me <mohamedbenoughidene@gmail.com>
