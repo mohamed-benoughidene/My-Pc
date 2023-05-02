@@ -23,7 +23,6 @@ This application displays the following information about the user computer syst
 # Dependencies
 The following Node.js packages are used in this project:
 - express
-- os-utils
 - cors
 
 # Author
