@@ -32,6 +32,9 @@ To run this project locally, follow these steps:
 - Navigate to the project directory in your terminal.
 - Run npm install to install the required dependencies.
 - Run npm start to start the development server.
+# note
+
+this is my first first project for me usign node. ijust wanted to get may hands **dirty**
 
 # Author
 This application was developed by **Mohamed BenOughidene** fell free to cantact me <mohamedbenoughidene@gmail.com>
