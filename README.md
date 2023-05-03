@@ -1,5 +1,5 @@
 # My PC
-The My-PC repository is a project that aims to provide users with information about their PC using a React Node app. The app utilizes the os module to retrieve system information such as the operating system, processor, memory, which is then displayed in a user-friendly manner.
+The My-PC repository is a project that aims to get informations about the PC using a React Node app. The app utilizes the os module to retrieve system information such as the operating system, processor, memory, which is then displayed in a user-friendly manner.
 
 # built using
 The project is built using:
@@ -25,13 +25,6 @@ The following Node.js packages are used in this project:
 - express
 - cors
 
-# Installation
-To run this project locally, follow these steps:
-
-- Clone the repository to your local machine.
-- Navigate to the project directory in your terminal.
-- Run npm install to install the required dependencies.
-- Run npm start to start the development server.
 # note
 
 this is my first first project for me usign node. ijust wanted to get may hands **dirty**
